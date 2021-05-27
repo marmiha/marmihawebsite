@@ -1,0 +1,23 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+}
+
+.website-title {
+  color: #FDCA40;
+}
+
+div { 
+  padding: 0;
+  margin: 0;
+  background: #31393C;
+  overflow: hidden; 
+  text-align: center;
+  height: 100vh;
+  width: 100wh;
+}
+
+div * {
+  color: #E9C46A;
+  display: inline-block;
+  /* float:left;  remove */
+}
